@@ -13,7 +13,7 @@ This is a simple calculator app. It performs basic arithmetic operations and pro
 
 ## Demo
 
-See the live project in action: https://react-js-simple-calculator.netlify.app/
+See the live project in action: https://calculator-xi-wine.vercel.app/
 
 ## Technologies Used
 
