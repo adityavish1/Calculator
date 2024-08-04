@@ -2,7 +2,7 @@
 
 This is a simple calculator app. It performs basic arithmetic operations and provides a user-friendly interface.
 
-![image](https://github.com/DevAbdurR/Simple-Calulator/assets/112758727/983f51ed-af0c-4692-aa80-45019ca12c97)
+
 
 
 ## Features
