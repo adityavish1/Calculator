@@ -90,7 +90,12 @@ function App() {
             handleClick={handleClick}
             handleEqual={handleEqual}
           />
-          <p className="text-white">Created by Abdur Rehman</p>
+          
+          <div className="flex justify-center items-center h-full">
+            <p></p>
+            <p className="text-white">&copy; Aditya Vishwakarma</p>
+          </div>
+         
         </div>
       </div>
     </>
